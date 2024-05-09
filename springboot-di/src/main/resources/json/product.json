@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Playstation 5",
+    "price": 460,
+    "currency": "EUR"
+  },
+  {
+    "id": 2,
+    "name": "Large Navy Coat",
+    "price": 1062,
+    "currency": "EUR"
+  },
+  {
+    "id": 3,
+    "name": "Res Pizza Stove",
+    "price": 225,
+    "currency": "EUR"
+  },
+  {
+    "id": 4,
+    "name": "Feather Black Jacket",
+    "price": 612,
+    "currency": "EUR"
+  }
+]
